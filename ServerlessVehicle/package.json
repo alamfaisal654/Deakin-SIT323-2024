@@ -1,0 +1,23 @@
+{
+    "name": "sit725-2021-t2-prac",
+    "version": "1.0.0",
+    "description": "sit 725 T2 week 2 prac",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server_get.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ChoudharyNavit22/sit725-2021-t2-prac2.git"
+    },
+    "author": "Navit Choudhary",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ChoudharyNavit22/sit725-2021-t2-prac2/issues"
+    },
+    "homepage": "https://github.com/ChoudharyNavit22/sit725-2021-t2-prac2#readme",
+    "dependencies": {
+        "restify": "^11.1.0",
+        "restify-plugins": "^1.6.0"
+    }
+}

@@ -1,0 +1,8 @@
+1. Download Google CLI from https://cloud.google.com/sdk/docs/install
+2. Command "gcloud init"- Set your default project - "sit-faisal-alam-dc41412"
+3. gcloud compute regions list
+4. gcloud auth login
+5. gcloud auth configure-docker
+6. build image as gcr.io/project-name/image-name:tag
+7. docker push gcr.io/sit-faisal-alam-dc41412/node-web-app:1.1.1
+
